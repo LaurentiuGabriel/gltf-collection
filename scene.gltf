@@ -575,34 +575,34 @@
   ],
   "images": [
     {
-      "uri": "textures/Bridge_baseColor.png"
+      "uri": "https://raw.githubusercontent.com/LaurentiuGabriel/gltf-collection/refs/heads/main/https://raw.githubusercontent.com/LaurentiuGabriel/gltf-collection/refs/heads/main/textures/Bridge_baseColor.png"
     },
     {
-      "uri": "textures/Bridge_metallicRoughness.png"
+      "uri": "https://raw.githubusercontent.com/LaurentiuGabriel/gltf-collection/refs/heads/main/https://raw.githubusercontent.com/LaurentiuGabriel/gltf-collection/refs/heads/main/textures/Bridge_metallicRoughness.png"
     },
     {
-      "uri": "textures/Bridge_emissive.png"
+      "uri": "https://raw.githubusercontent.com/LaurentiuGabriel/gltf-collection/refs/heads/main/https://raw.githubusercontent.com/LaurentiuGabriel/gltf-collection/refs/heads/main/textures/Bridge_emissive.png"
     },
     {
-      "uri": "textures/Bridge_normal.png"
+      "uri": "https://raw.githubusercontent.com/LaurentiuGabriel/gltf-collection/refs/heads/main/textures/Bridge_normal.png"
     },
     {
-      "uri": "textures/Hull_baseColor.png"
+      "uri": "https://raw.githubusercontent.com/LaurentiuGabriel/gltf-collection/refs/heads/main/textures/Hull_baseColor.png"
     },
     {
-      "uri": "textures/Hull_metallicRoughness.png"
+      "uri": "https://raw.githubusercontent.com/LaurentiuGabriel/gltf-collection/refs/heads/main/textures/Hull_metallicRoughness.png"
     },
     {
-      "uri": "textures/Hull_normal.png"
+      "uri": "https://raw.githubusercontent.com/LaurentiuGabriel/gltf-collection/refs/heads/main/textures/Hull_normal.png"
     },
     {
-      "uri": "textures/Containers_baseColor.png"
+      "uri": "https://raw.githubusercontent.com/LaurentiuGabriel/gltf-collection/refs/heads/main/textures/Containers_baseColor.png"
     },
     {
-      "uri": "textures/Containers_metallicRoughness.png"
+      "uri": "https://raw.githubusercontent.com/LaurentiuGabriel/gltf-collection/refs/heads/main/textures/Containers_metallicRoughness.png"
     },
     {
-      "uri": "textures/Containers_normal.png"
+      "uri": "https://raw.githubusercontent.com/LaurentiuGabriel/gltf-collection/refs/heads/main/textures/Containers_normal.png"
     }
   ],
   "materials": [
